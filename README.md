@@ -11,7 +11,7 @@ def puts_ruby_three_times
 end
 
 # do not remove the line below
-puts_ruby_three-times
+puts_ruby_three_times
 
 ~~~solution
 

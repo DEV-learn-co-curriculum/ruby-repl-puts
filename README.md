@@ -21,11 +21,11 @@ def puts_ruby_three_times
   end
 end
 
-puts_ruby_three-times
+puts_ruby_three_times
 
 ~~~validation
 
-assert_output(response, "ruby\nruby\nruby")
+assert_output(response, "ruby\nruby\nruby\n")
 
 ~~~
 

@@ -6,7 +6,12 @@ Write a method that puts "ruby" 3 times
 
 ~~~ruby
 
-# Code your solution here
+def puts_ruby_three_times
+  # code your solution here
+end
+
+# do not remove the line below
+puts_ruby_three-times
 
 ~~~solution
 
@@ -15,6 +20,8 @@ def puts_ruby_three_times
     puts "ruby"
   end
 end
+
+puts_ruby_three-times
 
 ~~~validation
 

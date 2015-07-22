@@ -45,7 +45,7 @@ Write one line of code that puts "repls are teh best"
 
 ~~~ruby
 
-puts "repls are teh best"
+# code solution here
 
 ~~~solution
 
@@ -53,7 +53,7 @@ puts "repls are teh best"
 
 ~~~validation
 
-assert_output(response, "repls are teh best")
+assert_output(response, "repls are teh best\n")
 
 ~~~
 

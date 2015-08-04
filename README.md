@@ -99,7 +99,7 @@ Directions: Write an array containing three strings, each saying "taylors gonna 
 
 ~~~solution
 
-['taylors gonna tay', 'taylors gonna tay', 'taylors gonna tay']
+["taylors gonna tay", "taylors gonna tay", "taylors gonna tay"]
 
 ~~~validation
 

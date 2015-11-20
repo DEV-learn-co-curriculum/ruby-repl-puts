@@ -1,12 +1,12 @@
-# Let's test some Repls!
+# Let's test some Repls!!
 
-Below are some puts and non-puts repls. They should all work.
+Below are some puts and non-puts repls. They should all work. Check 'em out!
 
 %%%
 
 ### Ruby Repl Puts
 
-Write a method that puts "ruby" 3 times
+Write a method that puts "ruby" 3 times.
 
 ~~~ruby
 
@@ -99,7 +99,7 @@ Directions: Write an array containing three strings, each saying "taylors gonna 
 
 ~~~solution
 
-["taylors gonna tay", "taylors gonna tay", "taylors gonna tay"]
+['taylors gonna tay', 'taylors gonna tay', 'taylors gonna tay']
 
 ~~~validation
 
@@ -109,3 +109,5 @@ expect(response).to.be.a("array");
 ~~~
 
 %%%
+
+testing some stuff

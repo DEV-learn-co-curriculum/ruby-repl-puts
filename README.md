@@ -1,4 +1,6 @@
-# Let's test some Repls!!
+# Let's test some Repls!!!!!
+
+testing the repls
 
 Below are some puts and non-puts repls. They should all work. Check 'em out!
 
@@ -111,4 +113,4 @@ expect(response).to.be.a("array");
 %%%
 
 testing some stuff
-<a href='https://learn.co/lessons/ruby-repl-puts' data-visibility='hidden'>Learn.co resource</a>
+<a href='https://learn.co/lessons/ruby-repl-puts' data-visibility='hidden'>View this lesson on Learn.co</a>
